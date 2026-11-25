@@ -1,2 +1,6 @@
 /*
   X-Robots-Tag: noindex, nofollow
+
+/datos-informe.json
+  Access-Control-Allow-Origin: *
+  Cache-Control: no-cache

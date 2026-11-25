@@ -1,0 +1,2511 @@
+{
+ "web": "Empresas e Inversiones",
+ "version": "1.0",
+ "generado": "2026-11-25T11:36:52-03:00",
+ "indicadores": [
+  {
+   "id": "inversion-anunciada-mes",
+   "nombre": "Inversión anunciada o aprobada en el mes · total",
+   "valor": 36940.5,
+   "unidad": "millones de USD",
+   "variacion": {
+    "valor": 36920.5,
+    "unidad": "millones de USD",
+    "contra": "mes anterior"
+   },
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-industria",
+   "nombre": "Inversión anunciada o aprobada en el mes · Industria",
+   "valor": 49.5,
+   "unidad": "millones de USD",
+   "variacion": {
+    "valor": 29.5,
+    "unidad": "millones de USD",
+    "contra": "mes anterior"
+   },
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-agro",
+   "nombre": "Inversión anunciada o aprobada en el mes · Agro",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "variacion": {
+    "valor": 0,
+    "unidad": "millones de USD",
+    "contra": "mes anterior"
+   },
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Agro"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-mineria",
+   "nombre": "Inversión anunciada o aprobada en el mes · Minería",
+   "valor": 8290,
+   "unidad": "millones de USD",
+   "variacion": {
+    "valor": 8290,
+    "unidad": "millones de USD",
+    "contra": "mes anterior"
+   },
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Minería"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-energia",
+   "nombre": "Inversión anunciada o aprobada en el mes · Energía",
+   "valor": 28601,
+   "unidad": "millones de USD",
+   "variacion": {
+    "valor": 28601,
+    "unidad": "millones de USD",
+    "contra": "mes anterior"
+   },
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-construccion",
+   "nombre": "Inversión anunciada o aprobada en el mes · Construcción",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "variacion": {
+    "valor": 0,
+    "unidad": "millones de USD",
+    "contra": "mes anterior"
+   },
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-comercio-y-servicios",
+   "nombre": "Inversión anunciada o aprobada en el mes · Comercio y servicios",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "variacion": {
+    "valor": 0,
+    "unidad": "millones de USD",
+    "contra": "mes anterior"
+   },
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Comercio y servicios"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "rigi-aprobados-cantidad",
+   "nombre": "Proyectos aprobados en el RIGI",
+   "valor": 30,
+   "unidad": "proyectos",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "rigi-aprobados-monto",
+   "nombre": "Inversión comprometida en proyectos aprobados en el RIGI",
+   "valor": 79617,
+   "unidad": "millones de USD",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "empresas-crisis-total",
+   "nombre": "Empresas en crisis relevadas",
+   "valor": 167,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-rubro-industria",
+   "nombre": "Empresas en crisis relevadas · Industria",
+   "valor": 127,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-rubro-agro",
+   "nombre": "Empresas en crisis relevadas · Agro",
+   "valor": 8,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Agro"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-rubro-mineria",
+   "nombre": "Empresas en crisis relevadas · Minería",
+   "valor": 1,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Minería"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-rubro-energia",
+   "nombre": "Empresas en crisis relevadas · Energía",
+   "valor": 4,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-rubro-construccion",
+   "nombre": "Empresas en crisis relevadas · Construcción",
+   "valor": 4,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Construcción"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-rubro-comercio-y-servicios",
+   "nombre": "Empresas en crisis relevadas · Comercio y servicios",
+   "valor": 23,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "nacional",
+    "provincia": "",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Comercio y servicios"
+   ],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-buenos-aires",
+   "nombre": "Empresas en crisis relevadas · Buenos Aires",
+   "valor": 52,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Buenos Aires",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-caba",
+   "nombre": "Empresas en crisis relevadas · CABA",
+   "valor": 8,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "CABA",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-catamarca",
+   "nombre": "Empresas en crisis relevadas · Catamarca",
+   "valor": 6,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Catamarca",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-chaco",
+   "nombre": "Empresas en crisis relevadas · Chaco",
+   "valor": 5,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Chaco",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-chubut",
+   "nombre": "Empresas en crisis relevadas · Chubut",
+   "valor": 3,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Chubut",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-cordoba",
+   "nombre": "Empresas en crisis relevadas · Córdoba",
+   "valor": 12,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Córdoba",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-corrientes",
+   "nombre": "Empresas en crisis relevadas · Corrientes",
+   "valor": 5,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Corrientes",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-entre-rios",
+   "nombre": "Empresas en crisis relevadas · Entre Ríos",
+   "valor": 6,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Entre Ríos",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-formosa",
+   "nombre": "Empresas en crisis relevadas · Formosa",
+   "valor": 1,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Formosa",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-jujuy",
+   "nombre": "Empresas en crisis relevadas · Jujuy",
+   "valor": 3,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Jujuy",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-la-pampa",
+   "nombre": "Empresas en crisis relevadas · La Pampa",
+   "valor": 1,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "La Pampa",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-la-rioja",
+   "nombre": "Empresas en crisis relevadas · La Rioja",
+   "valor": 11,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "La Rioja",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-mendoza",
+   "nombre": "Empresas en crisis relevadas · Mendoza",
+   "valor": 5,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Mendoza",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-misiones",
+   "nombre": "Empresas en crisis relevadas · Misiones",
+   "valor": 3,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Misiones",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-neuquen",
+   "nombre": "Empresas en crisis relevadas · Neuquén",
+   "valor": 0,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Neuquén",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-rio-negro",
+   "nombre": "Empresas en crisis relevadas · Río Negro",
+   "valor": 2,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Río Negro",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-salta",
+   "nombre": "Empresas en crisis relevadas · Salta",
+   "valor": 1,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Salta",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-san-juan",
+   "nombre": "Empresas en crisis relevadas · San Juan",
+   "valor": 2,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "San Juan",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-san-luis",
+   "nombre": "Empresas en crisis relevadas · San Luis",
+   "valor": 3,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "San Luis",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-santa-cruz",
+   "nombre": "Empresas en crisis relevadas · Santa Cruz",
+   "valor": 2,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Santa Cruz",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-santa-fe",
+   "nombre": "Empresas en crisis relevadas · Santa Fe",
+   "valor": 24,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Santa Fe",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-santiago-del-estero",
+   "nombre": "Empresas en crisis relevadas · Santiago del Estero",
+   "valor": 2,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Santiago del Estero",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-tierra-del-fuego",
+   "nombre": "Empresas en crisis relevadas · Tierra del Fuego",
+   "valor": 7,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Tierra del Fuego",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  },
+  {
+   "id": "empresas-crisis-provincia-tucuman",
+   "nombre": "Empresas en crisis relevadas · Tucumán",
+   "valor": 3,
+   "unidad": "empresas",
+   "fecha_dato": "2026-11-25",
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Tucumán",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#empresas"
+  }
+ ],
+ "novedades": [
+  {
+   "id": "2026-11-25-inversion-zozzoli-sa-complejo-maderero-don-daniel",
+   "fecha_dato": "2026-11-25",
+   "titulo": "Zozzoli SA: Complejo maderero «Don Daniel»",
+   "resumen": "Zozzoli SA: complejo maderero «Don Daniel». Lugar: Santo Tomé, Corrientes. Inversión: US$ 20 millones. Fuera del RIGI. Estado: en operación. Última novedad: nov 2026. Avance: En operación.",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Corrientes",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "madera"
+   ],
+   "exposicion": [],
+   "url": "https://www.lanacion.com.ar/economia/campo/invirtio-us20-millones-una-empresa-familiar-inauguro-una-planta-para-procesar-500-toneladas-diarias-nid16112026/"
+  },
+  {
+   "id": "2026-11-25-inversion-ypf-y-chevron-narambuena-petroleo-no-convencional",
+   "fecha_dato": "2026-11-25",
+   "titulo": "YPF y Chevron: Narambuena: petróleo no convencional",
+   "resumen": "YPF y Chevron: narambuena: petróleo no convencional. Lugar: Zona rural (norte de Vaca Muerta), Neuquén. Inversión: US$ 11,7 mil millones. En evaluación en el RIGI. Estado: anunciada. Última novedad: nov 2026. Avance: RIGI en evaluación (presentado el 24/11/2026).",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Neuquén",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [
+    "petróleo no convencional"
+   ],
+   "exposicion": [],
+   "url": "https://misionesonline.net/2026/11/24/ypf-presento-un-proyecto-al-rigi-por-us-11-688-millones-para-desarrollar-vaca-muerta/"
+  },
+  {
+   "id": "2026-11-25-inversion-vicuna-lundin-mining-y-bhp-mina-de-cobre-oro-y-plata",
+   "fecha_dato": "2026-11-25",
+   "titulo": "Vicuña (Lundin Mining y BHP): Mina de cobre, oro y plata",
+   "resumen": "Vicuña (Lundin Mining y BHP): mina de cobre, oro y plata. Lugar: Zona cordillerana (sin localidad), San Juan. Inversión: US$ 9,7 mil millones. Aprobada en el RIGI. Estado: aprobada. Última novedad: nov 2026. Avance: Aprobado; obras previas en caminos del Corredor Norte y primeros contratos. Importó bienes por unos US$ 12 millones (aduana, último registro oct 2026).",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "San Juan",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Minería"
+   ],
+   "subrubros": [
+    "cobre, oro y plata"
+   ],
+   "exposicion": [],
+   "url": "https://rigi.ar/proyectos"
+  },
+  {
+   "id": "2026-11-25-inversion-toyota-argentina-planta-de-vehiculos-electrificados-pick-up-",
+   "fecha_dato": "2026-11-25",
+   "titulo": "Toyota Argentina: Planta de vehículos electrificados (pick-up híbrida)",
+   "resumen": "Toyota Argentina: planta de vehículos electrificados (pick-up híbrida). Lugar: Zárate, Buenos Aires. Inversión: US$ 1,3 mil millones. Aprobada en el RIGI. Estado: aprobada. Última novedad: nov 2026. Avance: Aprobado; la empresa ratificó la inversión el 16/11/2026 y prevé producir desde 2030. Sin importaciones registradas en aduana a oct 2026.",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Buenos Aires",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "automotriz"
+   ],
+   "exposicion": [],
+   "url": "https://www.infobae.com/america/agencias/2026/11/16/japonesa-toyota-ratifica-millonaria-inversion-para-construir-una-nueva-planta-en-argentina/"
+  },
+  {
+   "id": "2026-11-25-inversion-techint-vientos-la-rinconada-parque-eolico-la-rinconada-94-5",
+   "fecha_dato": "2026-11-25",
+   "titulo": "Techint (Vientos La Rinconada): Parque Eólico La Rinconada, 94,5 MW",
+   "resumen": "Techint (Vientos La Rinconada): parque Eólico La Rinconada, 94,5 MW. Lugar: Olavarría (zona rural), Buenos Aires. Inversión: US$ 231 millones. Aprobada en el RIGI. Estado: aprobada. Última novedad: nov 2026. Avance: Aprobado en el RIGI. Sin importaciones registradas en aduana a oct 2026.",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Buenos Aires",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [
+    "eólica"
+   ],
+   "exposicion": [],
+   "url": "https://www.cronista.com/negocios/el-gobierno-le-aprobo-un-rigi-especial-a-techint-por-us-230-millones-que-la-hace-volar/"
+  },
+  {
+   "id": "2026-11-25-inversion-procesadora-de-gas-del-sur-tgs-planta-de-tratamiento-de-liqu",
+   "fecha_dato": "2026-11-25",
+   "titulo": "Procesadora de Gas del Sur (TGS): Planta de tratamiento de líquidos del gas",
+   "resumen": "Procesadora de Gas del Sur (TGS): planta de tratamiento de líquidos del gas. Lugar: Tratayén, Neuquén. Inversión: US$ 1,4 mil millones. Aprobada en el RIGI. Estado: aprobada. Última novedad: nov 2026. Avance: Aprobado en el RIGI. Sin importaciones registradas en aduana a oct 2026.",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Neuquén",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [
+    "gas (procesamiento)"
+   ],
+   "exposicion": [],
+   "url": "https://www.infobae.com/economia/2026/11/13/el-gobierno-sumo-al-rigi-dos-megaproyectos-por-usd-3245-millones-para-potenciar-las-exportaciones-de-gas/"
+  },
+  {
+   "id": "2026-11-25-inversion-pampa-energia-rincon-de-aranda-petroleo-no-convencional",
+   "fecha_dato": "2026-11-25",
+   "titulo": "Pampa Energía: Rincón de Aranda: petróleo no convencional",
+   "resumen": "Pampa Energía: rincón de Aranda: petróleo no convencional. Lugar: Añelo (zona rural), Neuquén. Inversión: US$ 4,5 mil millones. Aprobada en el RIGI. Estado: en obra. Última novedad: nov 2026. Avance: En desarrollo: el área ya produce y la producción aumenta. Importó bienes por unos US$ 4 millones (aduana, último registro oct 2026).",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Neuquén",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [
+    "petróleo no convencional"
+   ],
+   "exposicion": [],
+   "url": "https://www.cronista.com/economia-politica/el-mapa-del-rigi-uno-por-uno-los-19-megaproyectos-aprobados-que-movilizaran-us-45000-millones-en-10-provincias/"
+  },
+  {
+   "id": "2026-11-25-inversion-nueva-vicentin-grupo-grassi-plan-de-inversiones-20262027",
+   "fecha_dato": "2026-11-25",
+   "titulo": "Nueva Vicentin (Grupo Grassi): Plan de inversiones 2026–2027",
+   "resumen": "Nueva Vicentin (Grupo Grassi): plan de inversiones 2026–2027. Lugar: Avellaneda, Santa Fe. Inversión: US$ 100 millones. Fuera del RIGI. Estado: en obra. Última novedad: nov 2026. Avance: En obra: plan de inversiones 2026–2027.",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Santa Fe",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "aceitera"
+   ],
+   "exposicion": [],
+   "url": "https://ruralnet.com.ar/nueva-vicentin-inversiones-empleo-2026/"
+  },
+  {
+   "id": "2026-11-25-inversion-midstream-de-gas-del-sur-tgs-ducto-de-liquidos-de-577-km-de-",
+   "fecha_dato": "2026-11-25",
+   "titulo": "Midstream de Gas del Sur (TGS): Ducto de líquidos de 577 km de Neuquén a Bahía Blanca",
+   "resumen": "Midstream de Gas del Sur (TGS): ducto de líquidos de 577 km de Neuquén a Bahía Blanca. Lugar: Buenos Aires y Neuquén (proyecto interprovincial). Inversión: US$ 1,9 mil millones. Aprobada en el RIGI. Estado: aprobada. Última novedad: nov 2026. Avance: Aprobado en el RIGI. Sin importaciones registradas en aduana a oct 2026.",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Buenos Aires",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [
+    "gas (ducto y fraccionamiento)"
+   ],
+   "exposicion": [],
+   "url": "https://www.elonce.com/uid-892675"
+  },
+  {
+   "id": "2026-11-25-inversion-argentina-lng-ypf-planta-separadora-de-gases",
+   "fecha_dato": "2026-11-25",
+   "titulo": "Argentina LNG (YPF): Planta separadora de gases",
+   "resumen": "Argentina LNG (YPF): planta separadora de gases. Lugar: Cutral Co y Plaza Huincul, Neuquén. Inversión: US$ 7 mil millones. En evaluación en el RIGI. Estado: anunciada. Última novedad: nov 2026. Avance: Parte de Argentina LNG: RIGI en evaluación.",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Neuquén",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [
+    "gas (procesamiento)"
+   ],
+   "exposicion": [],
+   "url": "https://www.patagonia.press/vaca-muerta/2026/11/18/figueroa-confirmo-la-fecha-para-la-firma-del-megaproyecto-de-gnl-mas-de-us7000-millones-y-5000-empleos-para-neuquen-25094.html"
+  },
+  {
+   "id": "2026-11-25-inversion-argentina-lng-ypf-eni-y-xrg-gnl-dos-buques-de-licuefaccion-g",
+   "fecha_dato": "2026-11-25",
+   "titulo": "Argentina LNG (YPF, Eni y XRG): GNL: dos buques de licuefacción, gasoductos y planta en tierra",
+   "resumen": "Argentina LNG (YPF, Eni y XRG): gNL: dos buques de licuefacción, gasoductos y planta en tierra. Lugar: Punta Colorada (Golfo San Matías), Río Negro. Inversión: US$ 51 mil millones. En evaluación en el RIGI. Estado: anunciada. Última novedad: nov 2026. Avance: RIGI en evaluación (presentado el 13/08/2026); decisión final de inversión prevista para el 30/11/2026.",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Río Negro",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [
+    "gas natural licuado"
+   ],
+   "exposicion": [],
+   "url": "https://www.infobae.com/economia/2026/11/20/caputo-anuncio-el-ingreso-al-rigi-de-la-mayor-inversion-de-la-historia-argentina/"
+  },
+  {
+   "id": "2026-11-25-crisis-stellantis-peugeot",
+   "fecha_dato": "2026-11-25",
+   "titulo": "Stellantis (Peugeot): suspensiones en El Palomar",
+   "resumen": "Stellantis (Peugeot) (industria, automotriz), El Palomar, Buenos Aires. Situación: suspensiones. Fecha informada: mar 2026–ene 2027. Retiros voluntarios y luego suspensiones con vacaciones adelantadas; sin despidos.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Buenos Aires",
+    "localidad": "El Palomar",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "automotriz"
+   ],
+   "exposicion": [],
+   "url": "https://www.perfil.com/noticias/economia/stellantis-frena-produccion-fiat-peugeot-argentina-suspensiones-vacaciones-adelantadas-empleados-a40.phtml"
+  },
+  {
+   "id": "2026-11-25-crisis-stellantis-fiat",
+   "fecha_dato": "2026-11-25",
+   "titulo": "Stellantis (Fiat): suspensiones en Córdoba",
+   "resumen": "Stellantis (Fiat) (industria, automotriz), Córdoba, Córdoba. Situación: suspensiones. Fecha informada: oct 2026–ene 2027. Freno de producción en Ferreyra y suspensiones con vacaciones adelantadas; sin despidos.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Córdoba",
+    "localidad": "Córdoba",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "automotriz"
+   ],
+   "exposicion": [],
+   "url": "https://www.perfil.com/noticias/economia/stellantis-frena-produccion-fiat-peugeot-argentina-suspensiones-vacaciones-adelantadas-empleados-a40.phtml"
+  },
+  {
+   "id": "2026-11-25-crisis-stanley-black-decker",
+   "fecha_dato": "2026-11-25",
+   "titulo": "Stanley Black & Decker: cierre, despidos en Justo Daract",
+   "resumen": "Stanley Black & Decker (industria, metalmecánica (abrasivos)), Justo Daract, San Luis. Situación: cierre, despidos. Puestos informados: unos 61. Fecha informada: nov 2026. Cierre de la fábrica de discos abrasivos, con más de una década en Justo Daract, y despido de los 61 trabajadores. La empresa sigue operando en el país.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "San Luis",
+    "localidad": "Justo Daract",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "metalmecánica (abrasivos)"
+   ],
+   "exposicion": [],
+   "url": "https://perfil.com/politica/stanley-black-decker-cierra-su-fabrica-de-discos-y-despide-a-61-trabajadores-en-san-luis-a6u1N2a3OKYB"
+  },
+  {
+   "id": "2026-11-25-crisis-socolor-metalurgica",
+   "fecha_dato": "2026-11-25",
+   "titulo": "Socolor (metalúrgica): cierre en La Plata",
+   "resumen": "Socolor (metalúrgica) (industria, metalmecánica), La Plata, Buenos Aires. Situación: cierre. Fecha informada: dic 2025–2026. Cierre; despidió a todos sus operarios.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Buenos Aires",
+    "localidad": "La Plata",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "metalmecánica"
+   ],
+   "exposicion": [],
+   "url": "https://www.cronista.com/informacion-gral/cerro-un-gigante-metalurgico-tras-20-liderando-el-sector-y-despidio-a-todos-sus-operarios"
+  },
+  {
+   "id": "2026-11-25-crisis-plantium-gentec-maquinaria-agricola",
+   "fecha_dato": "2026-11-25",
+   "titulo": "Plantium-Gentec (maquinaria agrícola): despidos, suspensiones, concurso preventivo en Villa Constitución",
+   "resumen": "Plantium-Gentec (maquinaria agrícola) (industria, maquinaria agrícola), Villa Constitución, Santa Fe. Situación: despidos, suspensiones, concurso preventivo. Puestos informados: unos 84. Fecha informada: nov 2026. Paralización y 84 despidos; deudas por $500 millones. En noviembre de 2026 pidió el concurso preventivo.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Santa Fe",
+    "localidad": "Villa Constitución",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "maquinaria agrícola"
+   ],
+   "exposicion": [],
+   "url": "https://www.eldestapeweb.com/sociedad/llegue-limite-no-puedo-cerro-historica-fabrica-despidio-84-empleados-debe-500-millones-2026113132546"
+  },
+  {
+   "id": "2026-11-25-crisis-pauny-tractores",
+   "fecha_dato": "2026-11-25",
+   "titulo": "Pauny (tractores): suspensiones en Las Varillas",
+   "resumen": "Pauny (tractores) (industria, maquinaria agrícola), Las Varillas, Córdoba. Situación: suspensiones. Puestos informados: unos 450. Fecha informada: ago–nov 2026. Suspensiones desde agosto; en noviembre de 2026, fábrica tomada por salarios impagos. Deuda de unos $30.800 millones; cerca de 450 trabajadores directos. ⚠ Confirmar si hay concurso.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Córdoba",
+    "localidad": "Las Varillas",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "maquinaria agrícola"
+   ],
+   "exposicion": [],
+   "url": "https://www.lavozdesanjusto.com.ar/pauny-en-convocatoria-uom-alerta-por-la-caida-y-el-intendente-pide-herramientas-al-gobierno"
+  },
+  {
+   "id": "2026-11-25-crisis-papelera-del-sur-grupo-interpack",
+   "fecha_dato": "2026-11-25",
+   "titulo": "Papelera del Sur (grupo Interpack): cierre en Tornquist",
+   "resumen": "Papelera del Sur (grupo Interpack) (industria, celulosa y papel), Tornquist, Buenos Aires. Situación: cierre. Puestos informados: unos 160. Fecha informada: nov 2026. Cierre definitivo de la planta de cartulina tras más de 60 años; 160 despidos. La empresa lo atribuye a la falta de rentabilidad y a la competencia importada; se comprometió a pagar las indemnizaciones en noviembre.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Buenos Aires",
+    "localidad": "Tornquist",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "celulosa y papel"
+   ],
+   "exposicion": [],
+   "url": "https://www.todoprovincial.com/cierra-papelera-del-sur-y-deja-a-160-trabajadores-sin-empleo-en-tornquist/"
+  },
+  {
+   "id": "2026-11-25-crisis-la-campagnola-arcor",
+   "fecha_dato": "2026-11-25",
+   "titulo": "La Campagnola (Arcor): cierre en Mar del Plata",
+   "resumen": "La Campagnola (Arcor) (industria, alimentos), Mar del Plata, Buenos Aires. Situación: cierre. Puestos informados: unos 75. Fecha informada: oct–nov 2026. Frenó la producción y suspendió a 60 empleados en octubre; en noviembre se anunció el cierre definitivo de la planta, con 75 trabajadores.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Buenos Aires",
+    "localidad": "Mar del Plata",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "alimentos"
+   ],
+   "exposicion": [],
+   "url": "https://www.lacapitalmdp.com/la-campagnola-frena-su-produccion-y-suspende-a-60-empleados/"
+  },
+  {
+   "id": "2026-11-25-crisis-coteminas-sabanas",
+   "fecha_dato": "2026-11-25",
+   "titulo": "Coteminas (sábanas): despidos en La Banda",
+   "resumen": "Coteminas (sábanas) (industria, textil), La Banda, Santiago del Estero. Situación: despidos. Puestos informados: unos 112. Fecha informada: nov 2025–2026. 112 despidos en la planta.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Santiago del Estero",
+    "localidad": "La Banda",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "textil"
+   ],
+   "exposicion": [],
+   "url": "https://www.cronista.com/negocios/ahora-un-conocido-fabricante-de-sabanas-se-suma-a-los-ajustes-en-plantas-por-la-ola-importadora/"
+  },
+  {
+   "id": "2026-11-25-crisis-bgh",
+   "fecha_dato": "2026-11-25",
+   "titulo": "BGH: suspensiones, despidos en Río Grande",
+   "resumen": "BGH (industria, electrónica), Río Grande, Tierra del Fuego. Situación: suspensiones, despidos. Puestos informados: unos 274. Fecha informada: may–nov 2026. Paralización de 45 días (600 empleos directos) y 24 desvinculaciones; el 5/11/2026 anunció 250 despidos más, con retiro voluntario hasta el 15/12.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Tierra del Fuego",
+    "localidad": "Río Grande",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "electrónica"
+   ],
+   "exposicion": [],
+   "url": "https://www.eldestapeweb.com/economia/esta-empresa-electrodomesticos-echo-250-trabajadores-tierra-fuego-2026115101010"
+  },
+  {
+   "id": "2026-11-25-crisis-basf",
+   "fecha_dato": "2026-11-25",
+   "titulo": "BASF: despidos en General Lagos",
+   "resumen": "BASF (industria, química), General Lagos, Santa Fe. Situación: despidos. Puestos informados: unos 13. Fecha informada: oct–nov 2026. 13 bajas entre despidos y retiros.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Santa Fe",
+    "localidad": "General Lagos",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "química"
+   ],
+   "exposicion": [],
+   "url": "https://www.conclusion.com.ar/?p=1466662"
+  },
+  {
+   "id": "2026-11-25-crisis-arluchi-ids-suelas-grupo-ruiz",
+   "fecha_dato": "2026-11-25",
+   "titulo": "Arluchi (IDS Suelas, Grupo Ruiz): cierre, despidos en Chivilcoy",
+   "resumen": "Arluchi (IDS Suelas, Grupo Ruiz) (industria, calzado (suelas)), Chivilcoy, Buenos Aires. Situación: cierre, despidos. Puestos informados: unos 20. Fecha informada: nov 2026. Cierre de la planta del Parque Industrial el 30/11/2026, después de 15 años; la producción pasa a Brasil. Entre 15 y 20 despidos (tenía cerca de 80 trabajadores en 2023); quedan 3 empleados en tareas comerciales.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Buenos Aires",
+    "localidad": "Chivilcoy",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "calzado (suelas)"
+   ],
+   "exposicion": [],
+   "url": "https://www.infobae.com/economia/2026/11/23/cierra-otra-fabrica-del-sector-de-calzado-y-traslada-su-produccion-a-brasil-que-pasara-con-sus-empleados/"
+  },
+  {
+   "id": "2026-10-31-inversion-ypf-y-vista-energy-bajo-del-toro-petroleo-no-convencional",
+   "fecha_dato": "2026-10-31",
+   "titulo": "YPF y Vista Energy: Bajo del Toro: petróleo no convencional",
+   "resumen": "YPF y Vista Energy: bajo del Toro: petróleo no convencional. Lugar: Zona rural (norte de Vaca Muerta), Neuquén. Inversión: US$ 8,7 mil millones. En evaluación en el RIGI. Estado: anunciada. Última novedad: oct 2026. Avance: RIGI en evaluación (presentado el 30/10/2026).",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Neuquén",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [
+    "petróleo no convencional"
+   ],
+   "exposicion": [],
+   "url": "https://www.mdzol.com/sociedad/2026/11/2/ypf-presento-la-solicitud-de-adhesion-al-rigi-para-el-proyecto-bajo-del-toro-1992523.html"
+  },
+  {
+   "id": "2026-10-31-inversion-ypf-luz-parque-solar-el-quemado-y-anexos",
+   "fecha_dato": "2026-10-31",
+   "titulo": "YPF Luz: Parque Solar El Quemado y anexos",
+   "resumen": "YPF Luz: parque Solar El Quemado y anexos. Lugar: Las Heras (zona rural), Mendoza. Inversión: US$ 211 millones. Aprobada en el RIGI. Estado: aprobada. Última novedad: oct 2026. Avance: Aprobado en el RIGI. Importó bienes por unos US$ 39 millones (aduana, último registro oct 2026).",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Mendoza",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [
+    "solar"
+   ],
+   "exposicion": [],
+   "url": "https://www.cronista.com/economia-politica/el-mapa-del-rigi-uno-por-uno-los-19-megaproyectos-aprobados-que-movilizaran-us-45000-millones-en-10-provincias/"
+  },
+  {
+   "id": "2026-10-31-inversion-vmos-ypf-y-socios-oleoducto-vaca-muerta-sur-y-terminal-de-ex",
+   "fecha_dato": "2026-10-31",
+   "titulo": "VMOS (YPF y socios): Oleoducto Vaca Muerta Sur y terminal de exportación",
+   "resumen": "VMOS (YPF y socios): oleoducto Vaca Muerta Sur y terminal de exportación. Lugar: Punta Colorada (Sierra Grande), Río Negro. Inversión: US$ 2,9 mil millones. Aprobada en el RIGI. Estado: en obra. Última novedad: oct 2026. Avance: En obra. Importó bienes por unos US$ 241 millones (aduana, último registro oct 2026).",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Río Negro",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [
+    "petróleo (oleoducto)"
+   ],
+   "exposicion": [],
+   "url": "https://www.cronista.com/economia-politica/el-mapa-del-rigi-uno-por-uno-los-19-megaproyectos-aprobados-que-movilizaran-us-45000-millones-en-10-provincias/"
+  },
+  {
+   "id": "2026-10-31-inversion-tgs-ampliacion-del-tramo-i-del-gasoducto-perito-moreno",
+   "fecha_dato": "2026-10-31",
+   "titulo": "TGS: Ampliación del tramo I del Gasoducto Perito Moreno",
+   "resumen": "TGS: ampliación del tramo I del Gasoducto Perito Moreno. Lugar: Traza pampeana del gasoducto, La Pampa. Inversión: US$ 550 millones. Aprobada en el RIGI. Estado: aprobada. Última novedad: oct 2026. Avance: Aprobado en el RIGI. Importó bienes por unos US$ 34 millones (aduana, último registro oct 2026).",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "La Pampa",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [
+    "gas (gasoducto)"
+   ],
+   "exposicion": [],
+   "url": "https://www.cronista.com/economia-politica/el-mapa-del-rigi-uno-por-uno-los-19-megaproyectos-aprobados-que-movilizaran-us-45000-millones-en-10-provincias/"
+  },
+  {
+   "id": "2026-10-31-inversion-tecpetrol-y-gyp-los-toldos-ii-este-petroleo-no-convencional",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Tecpetrol y GyP: Los Toldos II Este: petróleo no convencional",
+   "resumen": "Tecpetrol y GyP: los Toldos II Este: petróleo no convencional. Lugar: Cerca de Rincón de los Sauces, Neuquén. Inversión: US$ 6,4 mil millones. Aprobada en el RIGI. Estado: en obra. Última novedad: oct 2026. Avance: En obra. Importó bienes por unos US$ 45 millones (aduana, último registro oct 2026).",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Neuquén",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [
+    "petróleo no convencional"
+   ],
+   "exposicion": [],
+   "url": "https://mase.lmneuquen.com/vaca-muerta/rigi-aprueban-el-proyecto-los-toldos-tecpetrol-us6400-millones-n1256780/amp"
+  },
+  {
+   "id": "2026-10-31-inversion-southern-energy-pae-golar-y-socios-licuefaccion-de-gas-natur",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Southern Energy (PAE, Golar y socios): Licuefacción de gas natural: buques frente a la costa",
+   "resumen": "Southern Energy (PAE, Golar y socios): licuefacción de gas natural: buques frente a la costa. Lugar: Golfo San Matías, frente a la costa, Río Negro. Inversión: US$ 15,2 mil millones. Aprobada en el RIGI. Estado: aprobada. Última novedad: oct 2026. Avance: Aprobado en el RIGI. Importó bienes por unos US$ 22 millones (aduana, último registro oct 2026).",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Río Negro",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [
+    "gas natural licuado"
+   ],
+   "exposicion": [],
+   "url": "https://www.cronista.com/economia-politica/el-mapa-del-rigi-uno-por-uno-los-19-megaproyectos-aprobados-que-movilizaran-us-45000-millones-en-10-provincias/"
+  },
+  {
+   "id": "2026-10-31-inversion-solfrut-fabrica-de-alimentos-y-planta-de-secado-de-pistachos",
+   "fecha_dato": "2026-10-31",
+   "titulo": "SolFrut: Fábrica de alimentos y planta de secado de pistachos",
+   "resumen": "SolFrut: fábrica de alimentos y planta de secado de pistachos. Lugar: Sarmiento (lugar de la planta sin precisar), San Juan. Inversión: US$ 19,5 millones. Fuera del RIGI. Estado: anunciada. Última novedad: oct 2026. Avance: Anunciado; inicio de obra previsto entre fines de 2026 y comienzos de 2027 (nave de unos 1.700 m²).",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "San Juan",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "alimentos"
+   ],
+   "exposicion": [],
+   "url": "https://www.forbesargentina.com/negocios/apuesta-pistacho-valor-agregado-plan-us-195-millones-solfrut-san-juan-n100789"
+  },
+  {
+   "id": "2026-10-31-inversion-sinteplast-ampliacion-de-plantas-de-pinturas-y-materiales-pa",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Sinteplast: Ampliación de plantas de pinturas y materiales para la construcción",
+   "resumen": "Sinteplast: ampliación de plantas de pinturas y materiales para la construcción. Lugar: Buenos Aires, Córdoba y San Luis (proyecto interprovincial). Inversión: US$ 30 millones. Fuera del RIGI. Estado: anunciada. Última novedad: oct 2026. Avance: Anunciado; la planta nueva de Ezeiza, prevista para 2027.",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Buenos Aires",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "pinturas"
+   ],
+   "exposicion": [],
+   "url": "https://www.iprofesional.com/negocios/467735-sinteplast-invertira-44-millones-de-dolares-para-ampliar-fabricas-en-cinco-paises"
+  },
+  {
+   "id": "2026-10-31-inversion-sidersa-aceria-de-acero-verde",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Sidersa: Acería de acero verde",
+   "resumen": "Sidersa: acería de acero verde. Lugar: San Nicolás de los Arroyos, Buenos Aires. Inversión: US$ 286 millones. Aprobada en el RIGI. Estado: aprobada. Última novedad: oct 2026. Avance: Aprobado en el RIGI. Importó bienes por unos US$ 47 millones (aduana, último registro oct 2026).",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Buenos Aires",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "siderurgia"
+   ],
+   "exposicion": [],
+   "url": "https://gestionsindical.com/rigi-no-derrama-solo-se-crean-dos-empleos-cada-millon-dolares-que-entra/"
+  },
+  {
+   "id": "2026-10-31-inversion-san-matias-pipeline-gasoducto-de-vaca-muerta-al-golfo-san-ma",
+   "fecha_dato": "2026-10-31",
+   "titulo": "San Matías Pipeline: Gasoducto de Vaca Muerta al Golfo San Matías",
+   "resumen": "San Matías Pipeline: gasoducto de Vaca Muerta al Golfo San Matías. Lugar: Río Negro y Neuquén (proyecto interprovincial). Inversión: US$ 1,3 mil millones. Aprobada en el RIGI. Estado: aprobada. Última novedad: oct 2026. Avance: Aprobado en el RIGI. Importó bienes por unos US$ 49 millones (aduana, último registro oct 2026).",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Río Negro",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [
+    "gas (gasoducto)"
+   ],
+   "exposicion": [],
+   "url": "https://www.boletinoficial.gob.ar/pdf/aviso/primera/343613/20260626"
+  },
+  {
+   "id": "2026-10-31-inversion-rio-tinto-sal-de-vida-carbonato-de-litio",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Rio Tinto: Sal de Vida: carbonato de litio",
+   "resumen": "Rio Tinto: sal de Vida: carbonato de litio. Lugar: Salar del Hombre Muerto (sin localidad), Catamarca. Inversión: US$ 818 millones. En evaluación en el RIGI. Estado: en operación. Última novedad: oct 2026. Avance: En operación desde el segundo trimestre de 2026; RIGI en evaluación (presentado el 11/04/2025).",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Catamarca",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Minería"
+   ],
+   "subrubros": [
+    "litio"
+   ],
+   "exposicion": [],
+   "url": "https://reporteminero.cl/noticia/noticias/2026/10/rio-tinto-invierte-litio-argentina-catamarca-fenix-sal-vida"
+  },
+  {
+   "id": "2026-10-31-inversion-rio-tinto-proyecto-rincon-carbonato-de-litio",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Rio Tinto: Proyecto Rincón: carbonato de litio",
+   "resumen": "Rio Tinto: proyecto Rincón: carbonato de litio. Lugar: Salar del Rincón (cerca de Tolar Grande), Salta. Inversión: US$ 2,7 mil millones. Aprobada en el RIGI. Estado: aprobada. Última novedad: oct 2026. Avance: Aprobado en el RIGI. Importó bienes por unos US$ 84 millones (aduana, último registro oct 2026).",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Salta",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Minería"
+   ],
+   "subrubros": [
+    "litio"
+   ],
+   "exposicion": [],
+   "url": "https://www.cronista.com/economia-politica/el-mapa-del-rigi-uno-por-uno-los-19-megaproyectos-aprobados-que-movilizaran-us-45000-millones-en-10-provincias/"
+  },
+  {
+   "id": "2026-10-31-inversion-rio-tinto-ex-arcadium-fenix-fase-1b-carbonato-de-litio",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Rio Tinto (ex Arcadium): Fénix fase 1B: carbonato de litio",
+   "resumen": "Rio Tinto (ex Arcadium): fénix fase 1B: carbonato de litio. Lugar: Salar del Hombre Muerto (sin localidad), Catamarca. Inversión: US$ 531 millones. Aprobada en el RIGI. Estado: en operación. Última novedad: oct 2026. Avance: En operación: primera producción en el segundo trimestre de 2026. Importó bienes por unos US$ 2 millones (aduana, último registro oct 2026).",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Catamarca",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Minería"
+   ],
+   "subrubros": [
+    "litio"
+   ],
+   "exposicion": [],
+   "url": "https://reporteminero.cl/noticia/noticias/2026/10/rio-tinto-invierte-litio-argentina-catamarca-fenix-sal-vida"
+  },
+  {
+   "id": "2026-10-31-inversion-posco-sal-de-oro-ii-carbonato-de-litio",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Posco: Sal de Oro II: carbonato de litio",
+   "resumen": "Posco: sal de Oro II: carbonato de litio. Lugar: Salar del Hombre Muerto (sin localidad), Catamarca. Inversión: US$ 547 millones. Aprobada en el RIGI. Estado: en operación. Última novedad: oct 2026. Avance: En operación: segunda planta inaugurada.",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Catamarca",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Minería"
+   ],
+   "subrubros": [
+    "litio"
+   ],
+   "exposicion": [],
+   "url": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/10/06/minera-surcoreana-inaugura-su-segunda-planta-de-litio-en-argentina.shtml"
+  },
+  {
+   "id": "2026-10-31-inversion-pluspetrol-y-gyp-bajo-del-choiquela-invernada-petroleo-y-gas",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Pluspetrol y GyP: Bajo del Choique–La Invernada: petróleo y gas no convencional",
+   "resumen": "Pluspetrol y GyP: bajo del Choique–La Invernada: petróleo y gas no convencional. Lugar: Zona rural, unos 40 km al sur de Rincón de los Sauces, Neuquén. Inversión: US$ 12,2 mil millones. Aprobada en el RIGI. Estado: aprobada. Última novedad: oct 2026. Avance: Aprobado en el RIGI. Sin importaciones registradas en aduana a oct 2026.",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Neuquén",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [
+    "petróleo no convencional"
+   ],
+   "exposicion": [],
+   "url": "https://www.lacapitalmdp.com/vaca-muerta-aprueban-un-megaproyecto-de-us12-240-millones/"
+  },
+  {
+   "id": "2026-10-31-inversion-pan-american-energy-cerro-dragon-recuperacion-terciaria-de-p",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Pan American Energy: Cerro Dragón: recuperación terciaria de petróleo",
+   "resumen": "Pan American Energy: cerro Dragón: recuperación terciaria de petróleo. Lugar: Área Cerro Dragón (Golfo San Jorge), Chubut. Inversión: US$ 1,2 mil millones. En evaluación en el RIGI. Estado: anunciada. Última novedad: oct 2026. Avance: RIGI en evaluación (presentado el 01/10/2026).",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Chubut",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [
+    "petróleo convencional"
+   ],
+   "exposicion": [],
+   "url": "https://www.lanacion.com.ar/economia/pan-american-energy-busca-ingresar-al-rigi-con-una-inversion-de-us1200-millones-para-revitalizar-nid01102026/"
+  },
+  {
+   "id": "2026-10-31-inversion-glencore-mara-agua-rica-cobre",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Glencore: MARA (Agua Rica): cobre",
+   "resumen": "Glencore: mARA (Agua Rica): cobre. Lugar: Andalgalá (zona de mina), Catamarca. Inversión: US$ 6,4 mil millones. Aprobada en el RIGI. Estado: aprobada. Última novedad: oct 2026. Avance: Aprobado en el RIGI. Sin importaciones registradas en aduana a oct 2026.",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Catamarca",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Minería"
+   ],
+   "subrubros": [
+    "cobre"
+   ],
+   "exposicion": [],
+   "url": "https://www.lanacion.com.ar/economia/el-gobierno-aprobo-un-nuevo-proyecto-rigi-en-catamarca-por-us6300-millones-nid27102026/"
+  },
+  {
+   "id": "2026-10-31-inversion-galan-lithium-hombre-muerto-oeste-hmw-litio",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Galan Lithium: Hombre Muerto Oeste (HMW): litio",
+   "resumen": "Galan Lithium: hombre Muerto Oeste (HMW): litio. Lugar: Salar del Hombre Muerto (sin localidad), Catamarca. Inversión: US$ 292 millones. Aprobada en el RIGI. Estado: aprobada. Última novedad: oct 2026. Avance: Aprobado en el RIGI. Importó bienes por unos US$ 16 millones (aduana, último registro oct 2026).",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Catamarca",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Minería"
+   ],
+   "subrubros": [
+    "litio"
+   ],
+   "exposicion": [],
+   "url": "https://www.cronista.com/economia-politica/el-mapa-del-rigi-uno-por-uno-los-19-megaproyectos-aprobados-que-movilizaran-us-45000-millones-en-10-provincias/"
+  },
+  {
+   "id": "2026-10-31-inversion-carbonatos-profundos-dcp-ampliacion-minera",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Carbonatos Profundos (DCP): Ampliación minera",
+   "resumen": "Carbonatos Profundos (DCP): ampliación minera. Lugar: San José de Jáchal (zona de mina), San Juan. Inversión: US$ 665 millones. Aprobada en el RIGI. Estado: aprobada. Última novedad: oct 2026. Avance: Aprobado en el RIGI. Primeras importaciones de bienes registradas (oct 2026).",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "San Juan",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Minería"
+   ],
+   "subrubros": [
+    "oro"
+   ],
+   "exposicion": [],
+   "url": "https://www.cronista.com/economia-politica/el-mapa-del-rigi-uno-por-uno-los-19-megaproyectos-aprobados-que-movilizaran-us-45000-millones-en-10-provincias/"
+  },
+  {
+   "id": "2026-10-31-crisis-unionbat-baterias",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Unionbat (baterías): cierre, despidos, concurso preventivo en Gualeguaychú",
+   "resumen": "Unionbat (baterías) (industria, baterías), Gualeguaychú, Entre Ríos. Situación: cierre, despidos, concurso preventivo. Puestos informados: unos 100. Fecha informada: jun–oct 2026. Cierre de la planta; más de 100 despidos; luego concurso.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Entre Ríos",
+    "localidad": "Gualeguaychú",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "baterías"
+   ],
+   "exposicion": [],
+   "url": "https://www.lagaceta.com.ar/nota/1143182/sociedad/despidos-masivos-union-bat-cerro-planta-gualeguaychu-mas-100-trabajadores-quedaron-sin-empleo.html"
+  },
+  {
+   "id": "2026-10-31-crisis-savencia-ex-ilolay",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Savencia (ex Ilolay): cierre en El Trébol",
+   "resumen": "Savencia (ex Ilolay) (industria, lechería), El Trébol, Santa Fe. Situación: cierre. Puestos informados: unos 54. Fecha informada: oct 2026. Anunció el cierre de la planta láctea para el 31/03/2027; 54 trabajadores, con reubicación ofrecida.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Santa Fe",
+    "localidad": "El Trébol",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "lechería"
+   ],
+   "exposicion": [],
+   "url": "https://www.cronista.com/informacion-gral/una-historica-fabrica-lactea-cerrara-en-santa-fe-y-dejara-de-producir-en-marzo-de-2027/"
+  },
+  {
+   "id": "2026-10-31-crisis-lipo-caramelos",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Lipo (caramelos): despidos en Remedios de Escalada",
+   "resumen": "Lipo (caramelos) (industria, alimentos (golosinas)), Remedios de Escalada, Buenos Aires. Situación: despidos. Puestos informados: unos 25. Fecha informada: oct 2026. 25 despidos.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Buenos Aires",
+    "localidad": "Remedios de Escalada",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "alimentos (golosinas)"
+   ],
+   "exposicion": [],
+   "url": "https://www.iprofesional.com/management/467758-despidieron-a-25-trabajadores-de-la-fabrica-de-caramelos-lipo"
+  },
+  {
+   "id": "2026-10-31-crisis-flybondi",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Flybondi: despidos, concurso preventivo en Ciudad de Buenos Aires",
+   "resumen": "Flybondi (comercio y servicios, transporte aéreo), Ciudad de Buenos Aires, CABA. Situación: despidos, concurso preventivo. Puestos informados: unos 900. Fecha informada: oct 2026. Unas 900 desvinculaciones y pedido de concurso preventivo.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "CABA",
+    "localidad": "Ciudad de Buenos Aires",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Comercio y servicios"
+   ],
+   "subrubros": [
+    "transporte aéreo"
+   ],
+   "exposicion": [],
+   "url": "https://eleconomista.com.ar/economia/flybondi-pidio-concurso-acreedores-n98643"
+  },
+  {
+   "id": "2026-10-31-crisis-electrofueguina-grupo-fravega",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Electrofueguina (grupo Frávega): despidos en Río Grande",
+   "resumen": "Electrofueguina (grupo Frávega) (industria, electrónica), Río Grande, Tierra del Fuego. Situación: despidos. Fecha informada: oct 2026. Retiros y despidos anunciados entre operarios y supervisores.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Tierra del Fuego",
+    "localidad": "Río Grande",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "electrónica"
+   ],
+   "exposicion": [],
+   "url": "https://www.iprofesional.com/negocios/466189-electronica-controlada-por-fravega-activaria-despidos-en-el-sur"
+  },
+  {
+   "id": "2026-10-31-crisis-changomas",
+   "fecha_dato": "2026-10-31",
+   "titulo": "ChangoMás: cierre en Presidencia Roque Sáenz Peña",
+   "resumen": "ChangoMás (comercio y servicios, supermercados), Presidencia Roque Sáenz Peña, Chaco. Situación: cierre. Puestos informados: unos 40. Fecha informada: oct 2026. Cierre de la sucursal tras despidos por goteo; 40 trabajadores.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Chaco",
+    "localidad": "Presidencia Roque Sáenz Peña",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Comercio y servicios"
+   ],
+   "subrubros": [
+    "supermercados"
+   ],
+   "exposicion": [],
+   "url": "https://www.iprofesional.com/negocios/467329-tras-despidos-por-goteo-supermercado-changomas-cie"
+  },
+  {
+   "id": "2026-10-31-crisis-bunge-fertilizantes",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Bunge (fertilizantes): cierre en Campana",
+   "resumen": "Bunge (fertilizantes) (industria, fertilizantes), Campana, Buenos Aires. Situación: cierre. Puestos informados: unos 137. Fecha informada: oct 2026. Cierre de la planta de fertilizantes anunciado el 26–27/10/2026: 137 trabajadores directos y unos 113 tercerizados.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Buenos Aires",
+    "localidad": "Campana",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "fertilizantes"
+   ],
+   "exposicion": [],
+   "url": "https://www.eldestapeweb.com/politica/bunge-cerro-planta-fertilizantes-dejo-200-trabajadores-calle-20261027101420"
+  },
+  {
+   "id": "2026-10-31-crisis-alisan-marca-mora",
+   "fecha_dato": "2026-10-31",
+   "titulo": "Alisan (marca Mora): cierre en San Rafael",
+   "resumen": "Alisan (marca Mora) (industria, conservas), San Rafael, Mendoza. Situación: cierre. Puestos informados: unos 35. Fecha informada: oct 2026. Cierre con $1.800 millones en cheques rechazados; 35 trabajadores. ⚠ Dudosa: otra fuente habla de 135 familias.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Mendoza",
+    "localidad": "San Rafael",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "conservas"
+   ],
+   "exposicion": [],
+   "url": "https://www.iprofesional.com/negocios/467660-una-empresa-de-mas-de-50-anos-cerro-con-1-800-millones-en-cheques-rechazados"
+  },
+  {
+   "id": "2026-09-30-inversion-pampa-energia-planta-de-urea-granulada",
+   "fecha_dato": "2026-09-30",
+   "titulo": "Pampa Energía: Planta de urea granulada",
+   "resumen": "Pampa Energía: planta de urea granulada. Lugar: Ingeniero White (Bahía Blanca), Buenos Aires. Inversión: US$ 2,7 mil millones. Aprobada en el RIGI. Estado: aprobada. Última novedad: sep 2026. Avance: Aprobado en el RIGI. Sin importaciones registradas en aduana a oct 2026.",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Buenos Aires",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "fertilizantes"
+   ],
+   "exposicion": [],
+   "url": "https://www.infobae.com/inhouse/2026/11/06/una-compania-energetica-argentina-construira-la-mayor-planta-de-urea-de-latinoamerica/"
+  },
+  {
+   "id": "2026-09-30-inversion-biofarma-planta-de-nucleos-y-premezclas-para-nutricion-anima",
+   "fecha_dato": "2026-09-30",
+   "titulo": "Biofarma: Planta de núcleos y premezclas para nutrición animal",
+   "resumen": "Biofarma: planta de núcleos y premezclas para nutrición animal. Lugar: Córdoba, Córdoba. Inversión: US$ 20 millones. Fuera del RIGI. Estado: en operación. Última novedad: sep 2026. Avance: En operación.",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Córdoba",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "nutrición animal"
+   ],
+   "exposicion": [],
+   "url": "https://www.lanacion.com.ar/economia/campo/una-compania-agroindustrial-inauguruo-una-planta-para-la-elaboracion-de-premezclas-de-vitaminas-y-nid02092026/"
+  },
+  {
+   "id": "2026-09-30-crisis-manisur-mani",
+   "fecha_dato": "2026-09-30",
+   "titulo": "Manisur (maní): quiebra en Santa Eufemia",
+   "resumen": "Manisur (maní) (industria, maní), Santa Eufemia, Córdoba. Situación: quiebra. Puestos informados: unos 70. Fecha informada: sep 2026. Quiebra; entre 70 y 100 trabajadores.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Córdoba",
+    "localidad": "Santa Eufemia",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "maní"
+   ],
+   "exposicion": [],
+   "url": "https://www.conclusion.com.ar/?p=1457516"
+  },
+  {
+   "id": "2026-09-30-crisis-hilanderia-fueguina",
+   "fecha_dato": "2026-09-30",
+   "titulo": "Hilandería Fueguina: cierre en Río Grande",
+   "resumen": "Hilandería Fueguina (industria, textil), Río Grande, Tierra del Fuego. Situación: cierre. Puestos informados: unos 20. Fecha informada: sep 2026. Cierre anunciado para el 30/09; unos 20 puestos. ⚠ Dudosa: la fuente no confirma la localidad.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Tierra del Fuego",
+    "localidad": "Río Grande",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "textil"
+   ],
+   "exposicion": [],
+   "url": "https://www.conclusion.com.ar/?p=1457829"
+  },
+  {
+   "id": "2026-09-30-crisis-granja-tres-arroyos-planta-la-china",
+   "fecha_dato": "2026-09-30",
+   "titulo": "Granja Tres Arroyos (planta La China): despidos, cierre, concurso preventivo en Concepción del Uruguay",
+   "resumen": "Granja Tres Arroyos (planta La China) (industria, avícola), Concepción del Uruguay, Entre Ríos. Situación: despidos, cierre, concurso preventivo. Puestos informados: unos 255. Fecha informada: dic 2024–sep 2026. Procedimiento preventivo de crisis, 255 despidos en Entre Ríos, cierre de la planta y concurso preventivo (pasivo de unos US$350 millones). En total, unas 1.730 desvinculaciones entre Entre Ríos y Buenos Aires.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Entre Ríos",
+    "localidad": "Concepción del Uruguay",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "avícola"
+   ],
+   "exposicion": [],
+   "url": "https://www.iprofesional.com/negocios/463919-granja-tres-arroyos-podria-entrar-en-convocatoria-de-acreedores"
+  },
+  {
+   "id": "2026-09-30-crisis-granja-tres-arroyos",
+   "fecha_dato": "2026-09-30",
+   "titulo": "Granja Tres Arroyos: despidos, concurso preventivo en Capitán Sarmiento",
+   "resumen": "Granja Tres Arroyos (industria, avícola), Capitán Sarmiento, Buenos Aires. Situación: despidos, concurso preventivo. Puestos informados: unos 1.000. Fecha informada: sep 2026. Unos 1.000 despidos en Capitán Sarmiento, Esteban Echeverría y Pilar.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Buenos Aires",
+    "localidad": "Capitán Sarmiento",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "avícola"
+   ],
+   "exposicion": [],
+   "url": "https://www.noticiasnqn.com.ar/noticias/2026/09/03/351023-granja-tres-arroyos-despidio-a-1000-trabajadores"
+  },
+  {
+   "id": "2026-09-30-crisis-electrolux",
+   "fecha_dato": "2026-09-30",
+   "titulo": "Electrolux: cierre en Rosario",
+   "resumen": "Electrolux (industria, electrodomésticos), Rosario, Santa Fe. Situación: cierre. Puestos informados: unos 100. Fecha informada: sep 2026. Deja de fabricar y pasa a importar; unos 100 despidos (180 operarios en planta).",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Santa Fe",
+    "localidad": "Rosario",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "electrodomésticos"
+   ],
+   "exposicion": [],
+   "url": "https://eleconomista.com.ar/economia/otro-gigante-electrodomesticos-deja-fabricar-argentina-pasa-importar-todo-estiman-100-despidos-n98429"
+  },
+  {
+   "id": "2026-09-30-crisis-danica",
+   "fecha_dato": "2026-09-30",
+   "titulo": "Dánica: cierre en Llavallol",
+   "resumen": "Dánica (industria, alimentos), Llavallol, Buenos Aires. Situación: cierre. Puestos informados: unos 150. Fecha informada: ene 2025–sep 2026. Cierre de la planta tras 86 años; 150 despidos. Terminó de cerrar el 30/09/2026, con 30 a 35 trabajadores al final.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Buenos Aires",
+    "localidad": "Llavallol",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "alimentos"
+   ],
+   "exposicion": [],
+   "url": "https://www.cronista.com/negocios/industria-en-crisis-las-empresas-que-cerraron-plantas-y-frenaron-produccion-en-2026"
+  },
+  {
+   "id": "2026-09-30-crisis-carrefour",
+   "fecha_dato": "2026-09-30",
+   "titulo": "Carrefour: en crisis en Mendoza",
+   "resumen": "Carrefour (comercio y servicios, supermercados), Mendoza, Mendoza. Situación: en crisis. Fecha informada: sep 2026. Procedimiento preventivo de crisis que alcanza a 400 trabajadores en Mendoza. ⚠ Dudosa: la fecha no es clara en la fuente y no hay despidos confirmados.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Mendoza",
+    "localidad": "Mendoza",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Comercio y servicios"
+   ],
+   "subrubros": [
+    "supermercados"
+   ],
+   "exposicion": [],
+   "url": "https://www.unidiversidad.com.ar/carrefour-formalizo-su-crisis-y-hay-preocupacion-de-cara-al-futuro"
+  },
+  {
+   "id": "2026-08-31-inversion-stellantis-nueva-familia-de-vehiculos-componentes-y-un-motor",
+   "fecha_dato": "2026-08-31",
+   "titulo": "Stellantis: Nueva familia de vehículos, componentes y un motor para exportar",
+   "resumen": "Stellantis: nueva familia de vehículos, componentes y un motor para exportar. Lugar: Córdoba (Ferreyra), Córdoba. Inversión: US$ 385 millones. Fuera del RIGI. Estado: anunciada. Última novedad: ago 2026. Avance: Anunciado.",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Córdoba",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "automotriz"
+   ],
+   "exposicion": [],
+   "url": "https://hoydia.com.ar/economia/stellantis-invierte-us-385-en-la-planta-cordobesa-para-la-fabricacion-de-nuevos-modelos"
+  },
+  {
+   "id": "2026-08-31-inversion-compania-mega-ampliacion-de-la-separacion-de-gas",
+   "fecha_dato": "2026-08-31",
+   "titulo": "Compañía Mega: Ampliación de la separación de gas",
+   "resumen": "Compañía Mega: ampliación de la separación de gas. Lugar: Loma La Lata, Neuquén. Inversión: US$ 365 millones. Aprobada en el RIGI. Estado: aprobada. Última novedad: ago 2026. Avance: Aprobado en el RIGI. Sin importaciones registradas en aduana a oct 2026.",
+   "tipo": "inversión",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Neuquén",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "subrubros": [
+    "gas (procesamiento)"
+   ],
+   "exposicion": [],
+   "url": "https://www.ambito.com/energia/el-gobierno-aprobo-una-inversion-compania-mega-us360-millones-el-rigi-n6305884"
+  },
+  {
+   "id": "2026-08-31-crisis-will-der-textil-las-flores",
+   "fecha_dato": "2026-08-31",
+   "titulo": "Will Der (textil): cierre en Las Flores",
+   "resumen": "Will Der (textil) (industria, textil), Las Flores, Buenos Aires. Situación: cierre. Puestos informados: unos 30. Fecha informada: ago 2026. Cierre de la planta de Las Flores; 30 despidos.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Buenos Aires",
+    "localidad": "Las Flores",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "textil"
+   ],
+   "exposicion": [],
+   "url": "https://www.cronista.com/informacion-gral/tras-20-anos-cierran-dos-de-las-fabricas-mas-reconocidas-de-buenos-aires-mas-de-120-trabajadores-perdieron-su-empleo/"
+  },
+  {
+   "id": "2026-08-31-crisis-will-der-textil",
+   "fecha_dato": "2026-08-31",
+   "titulo": "Will Der (textil): cierre en General Pacheco",
+   "resumen": "Will Der (textil) (industria, textil), General Pacheco, Buenos Aires. Situación: cierre. Puestos informados: unos 90. Fecha informada: ago 2026. Cierre tras 20 años; 90 despidos en General Pacheco (120 sumando la planta de Las Flores).",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Buenos Aires",
+    "localidad": "General Pacheco",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "textil"
+   ],
+   "exposicion": [],
+   "url": "https://www.cronista.com/informacion-gral/tras-20-anos-cierran-dos-de-las-fabricas-mas-reconocidas-de-buenos-aires-mas-de-120-trabajadores-perdieron-su-empleo/"
+  },
+  {
+   "id": "2026-08-31-crisis-unilever-deshidratados-knorr",
+   "fecha_dato": "2026-08-31",
+   "titulo": "Unilever (deshidratados Knorr): cierre en Guaymallén",
+   "resumen": "Unilever (deshidratados Knorr) (industria, alimentos), Guaymallén, Mendoza. Situación: cierre. Puestos informados: unos 60. Fecha informada: ago 2026. Cierre de la planta de vegetales deshidratados; 60 despidos.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Mendoza",
+    "localidad": "Guaymallén",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "alimentos"
+   ],
+   "exposicion": [],
+   "url": "https://www.eldestapeweb.com/sociedad/60-despidos-historica-fabrica-alimentos-deshidratados-2026811183533"
+  },
+  {
+   "id": "2026-08-31-crisis-musimundo-carsa-montecarlo",
+   "fecha_dato": "2026-08-31",
+   "titulo": "Musimundo (Carsa): cierre, despidos, concurso preventivo en Montecarlo",
+   "resumen": "Musimundo (Carsa) (comercio y servicios, electrodomésticos), Montecarlo, Misiones. Situación: cierre, despidos, concurso preventivo. Puestos informados: unos 5. Fecha informada: ago 2026. Cierre del local; 5 despidos.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Misiones",
+    "localidad": "Montecarlo",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Comercio y servicios"
+   ],
+   "subrubros": [
+    "electrodomésticos"
+   ],
+   "exposicion": [],
+   "url": "https://misionesonline.net/2026/08/31/cierre-musimundo-corrientes/"
+  },
+  {
+   "id": "2026-08-31-crisis-musimundo-carsa-formosa",
+   "fecha_dato": "2026-08-31",
+   "titulo": "Musimundo (Carsa): cierre, despidos, concurso preventivo en Formosa",
+   "resumen": "Musimundo (Carsa) (comercio y servicios, electrodomésticos), Formosa, Formosa. Situación: cierre, despidos, concurso preventivo. Puestos informados: unos 35. Fecha informada: ago 2026. Cierres en Formosa capital, Clorinda, Pirané, Las Lomitas y El Colorado; unos 35 despidos.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Formosa",
+    "localidad": "Formosa",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Comercio y servicios"
+   ],
+   "subrubros": [
+    "electrodomésticos"
+   ],
+   "exposicion": [],
+   "url": "https://www.canal12misiones.com/nacionales/musimundo-formosa-despidos"
+  },
+  {
+   "id": "2026-08-31-crisis-musimundo-carsa-corrientes",
+   "fecha_dato": "2026-08-31",
+   "titulo": "Musimundo (Carsa): cierre, despidos, concurso preventivo en Corrientes",
+   "resumen": "Musimundo (Carsa) (comercio y servicios, electrodomésticos), Corrientes, Corrientes. Situación: cierre, despidos, concurso preventivo. Puestos informados: unos 36. Fecha informada: ago 2026. Cierre de locales en Corrientes; 36 despidos.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Corrientes",
+    "localidad": "Corrientes",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Comercio y servicios"
+   ],
+   "subrubros": [
+    "electrodomésticos"
+   ],
+   "exposicion": [],
+   "url": "https://misionesonline.net/2026/08/31/cierre-musimundo-corrientes/"
+  },
+  {
+   "id": "2026-08-31-crisis-musimundo-carsa",
+   "fecha_dato": "2026-08-31",
+   "titulo": "Musimundo (Carsa): cierre, despidos, concurso preventivo en Resistencia",
+   "resumen": "Musimundo (Carsa) (comercio y servicios, electrodomésticos), Resistencia, Chaco. Situación: cierre, despidos, concurso preventivo. Puestos informados: unos 30. Fecha informada: ago 2026. Cierre de cuatro locales en Chaco; unos 30 despidos; empresa en concurso desde jul 2026.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Chaco",
+    "localidad": "Resistencia",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Comercio y servicios"
+   ],
+   "subrubros": [
+    "electrodomésticos"
+   ],
+   "exposicion": [],
+   "url": "https://www.perfil.com/noticias/nea/musimundo-cerro-cuatro-locales-en-chaco-y-despidio-a-30-trabajadores.phtml"
+  },
+  {
+   "id": "2026-08-31-crisis-indumentaria-catamarca-icsa",
+   "fecha_dato": "2026-08-31",
+   "titulo": "Indumentaria Catamarca (ICSA): despidos, reapertura o rescate en San Fernando del Valle de Catamarca",
+   "resumen": "Indumentaria Catamarca (ICSA) (industria, textil y confección), San Fernando del Valle de Catamarca, Catamarca. Situación: despidos, reapertura o rescate. Puestos informados: unos 80. Fecha informada: ago 2026. Bajó de unos 100 a unos 20 empleados y anunció el cierre; con intervención provincial mantiene 30 empleos.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Catamarca",
+    "localidad": "San Fernando del Valle de Catamarca",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "textil y confección"
+   ],
+   "exposicion": [],
+   "url": "https://www.iprofesional.com/economia/462744-catamarca-evito-cierre-de-empresa-textil-que-fabrica-para-puma-y-lacoste"
+  },
+  {
+   "id": "2026-08-31-crisis-goldmund-peabody",
+   "fecha_dato": "2026-08-31",
+   "titulo": "Goldmund (Peabody): concurso preventivo, cierre, despidos en La Tablada",
+   "resumen": "Goldmund (Peabody) (industria, pequeños electrodomésticos), La Tablada, Buenos Aires. Situación: concurso preventivo, cierre, despidos. Puestos informados: unos 239. Fecha informada: abr–ago 2026. Concurso preventivo; bajó de 350 a 111 trabajadores y desmanteló la planta.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Buenos Aires",
+    "localidad": "La Tablada",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Industria"
+   ],
+   "subrubros": [
+    "pequeños electrodomésticos"
+   ],
+   "exposicion": [],
+   "url": "https://www.iprofesional.com/negocios/461748-peabody-cerro-su-fabrica-recorto-personal-y-sus-ventas-no-dejan-de-caer"
+  },
+  {
+   "id": "2026-08-31-crisis-garbarino",
+   "fecha_dato": "2026-08-31",
+   "titulo": "Garbarino: quiebra, cierre en Ciudad de Buenos Aires",
+   "resumen": "Garbarino (comercio y servicios, electrodomésticos), Ciudad de Buenos Aires, CABA. Situación: quiebra, cierre. Puestos informados: unos 18. Fecha informada: mar–ago 2026. Quiebra decretada; llegó a tener 4.000 empleados y cerró sus últimos 3 locales con 18.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "CABA",
+    "localidad": "Ciudad de Buenos Aires",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Comercio y servicios"
+   ],
+   "subrubros": [
+    "electrodomésticos"
+   ],
+   "exposicion": [],
+   "url": "https://www.diariodecuyo.com.ar/economia/adios-garbarino-ordenaron-la-quiebra-la-cadena-electrodomesticos-y-la-liquidacion-todos-sus-bienes-n6567477"
+  },
+  {
+   "id": "2026-08-31-crisis-divaflo-solo-empanadas-morita",
+   "fecha_dato": "2026-08-31",
+   "titulo": "Divaflo (Solo Empanadas, Morita): concurso preventivo en Ciudad de Buenos Aires",
+   "resumen": "Divaflo (Solo Empanadas, Morita) (comercio y servicios, gastronomía), Ciudad de Buenos Aires, CABA. Situación: concurso preventivo. Fecha informada: ago 2026. Concurso de acreedores con deudas y cheques rechazados.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "CABA",
+    "localidad": "Ciudad de Buenos Aires",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Comercio y servicios"
+   ],
+   "subrubros": [
+    "gastronomía"
+   ],
+   "exposicion": [],
+   "url": "https://eleconomista.com.ar/economia/deudas-millonarias-cheques-rechazados-quiebra-famosa-cadena-empanadas-tambalea-n97130"
+  },
+  {
+   "id": "2026-08-31-crisis-contactus-call-center",
+   "fecha_dato": "2026-08-31",
+   "titulo": "Contactus (call center): despidos en Fontana",
+   "resumen": "Contactus (call center) (comercio y servicios, call center), Fontana, Chaco. Situación: despidos. Puestos informados: unos 100. Fecha informada: ago 2026. 100 despidos.",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Chaco",
+    "localidad": "Fontana",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Comercio y servicios"
+   ],
+   "subrubros": [
+    "call center"
+   ],
+   "exposicion": [],
+   "url": "https://www.canal12misiones.com/?p=765191"
+  },
+  {
+   "id": "2026-08-31-crisis-chediack-obra-ruta-34",
+   "fecha_dato": "2026-08-31",
+   "titulo": "Chediack (obra Ruta 34): despidos, suspensiones en San Pedro de Jujuy",
+   "resumen": "Chediack (obra Ruta 34) (construcción, obra vial), San Pedro de Jujuy, Jujuy. Situación: despidos, suspensiones. Puestos informados: unos 180. Fecha informada: ago 2026. Obra de ampliación de la Ruta Nacional 34 paralizada por falta de fondos nacionales; 180 trabajadores despedidos al vencer la suspensión. ⚠ Una sola fuente (prensa gremial).",
+   "tipo": "empresa en crisis",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "localidad",
+    "provincia": "Jujuy",
+    "localidad": "San Pedro de Jujuy",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Construcción"
+   ],
+   "subrubros": [
+    "obra vial"
+   ],
+   "exposicion": [],
+   "url": "https://www.identidadsindical.ar/nota-obra-paralizada-y-180-despidos-la-uocra-denuncia-una-tragedia-laboral-en-jujuy-65035"
+  }
+ ],
+ "agenda": [
+  {
+   "fecha": "2026-11-30",
+   "evento": "Fecha prevista de decisión final de inversión: Argentina LNG (YPF, Eni y XRG) (GNL: dos buques de licuefacción, gasoductos y planta en tierra)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Río Negro",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "url": "https://www.infobae.com/economia/2026/11/20/caputo-anuncio-el-ingreso-al-rigi-de-la-mayor-inversion-de-la-historia-argentina/"
+  },
+  {
+   "fecha": "2026-12-01",
+   "evento": "Vence la fecha comprometida de inversión mínima del RIGI: Rio Tinto (ex Arcadium) (Fénix fase 1B: carbonato de litio)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Catamarca",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Minería"
+   ],
+   "url": "https://reporteminero.cl/noticia/noticias/2026/10/rio-tinto-invierte-litio-argentina-catamarca-fenix-sal-vida"
+  },
+  {
+   "fecha": "2026-12-31",
+   "evento": "Vence la fecha comprometida de inversión mínima del RIGI: TGS (Ampliación del tramo I del Gasoducto Perito Moreno)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "La Pampa",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [
+    "Energía"
+   ],
+   "url": "https://www.cronista.com/economia-politica/el-mapa-del-rigi-uno-por-uno-los-19-megaproyectos-aprobados-que-movilizaran-us-45000-millones-en-10-provincias/"
+  }
+ ],
+ "faltantes": []
+}
