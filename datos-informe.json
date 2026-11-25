@@ -1,18 +1,16 @@
 {
  "web": "Empresas e Inversiones",
- "version": "1.0",
- "generado": "2026-11-25T11:36:52-03:00",
+ "version": "1.3",
+ "generado": "2026-11-25T14:10:38-03:00",
  "indicadores": [
   {
    "id": "inversion-anunciada-mes",
-   "nombre": "Inversión anunciada o aprobada en el mes · total",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · total",
    "valor": 36940.5,
    "unidad": "millones de USD",
-   "variacion": {
-    "valor": 36920.5,
-    "unidad": "millones de USD",
-    "contra": "mes anterior"
-   },
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-10-31",
    "periodo": "2026-10",
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
@@ -30,16 +28,20 @@
   },
   {
    "id": "inversion-anunciada-mes-industria",
-   "nombre": "Inversión anunciada o aprobada en el mes · Industria",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Industria",
    "valor": 49.5,
    "unidad": "millones de USD",
-   "variacion": {
-    "valor": 29.5,
-    "unidad": "millones de USD",
-    "contra": "mes anterior"
-   },
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-10-31",
    "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-rubro",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "rubro",
+    "clave": "Industria"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -57,16 +59,20 @@
   },
   {
    "id": "inversion-anunciada-mes-agro",
-   "nombre": "Inversión anunciada o aprobada en el mes · Agro",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Agro",
    "valor": 0,
    "unidad": "millones de USD",
-   "variacion": {
-    "valor": 0,
-    "unidad": "millones de USD",
-    "contra": "mes anterior"
-   },
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-10-31",
    "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-rubro",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "rubro",
+    "clave": "Agro"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -84,16 +90,20 @@
   },
   {
    "id": "inversion-anunciada-mes-mineria",
-   "nombre": "Inversión anunciada o aprobada en el mes · Minería",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Minería",
    "valor": 8290,
    "unidad": "millones de USD",
-   "variacion": {
-    "valor": 8290,
-    "unidad": "millones de USD",
-    "contra": "mes anterior"
-   },
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-10-31",
    "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-rubro",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "rubro",
+    "clave": "Minería"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -111,16 +121,20 @@
   },
   {
    "id": "inversion-anunciada-mes-energia",
-   "nombre": "Inversión anunciada o aprobada en el mes · Energía",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Energía",
    "valor": 28601,
    "unidad": "millones de USD",
-   "variacion": {
-    "valor": 28601,
-    "unidad": "millones de USD",
-    "contra": "mes anterior"
-   },
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-10-31",
    "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-rubro",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "rubro",
+    "clave": "Energía"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -138,16 +152,20 @@
   },
   {
    "id": "inversion-anunciada-mes-construccion",
-   "nombre": "Inversión anunciada o aprobada en el mes · Construcción",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Construcción",
    "valor": 0,
    "unidad": "millones de USD",
-   "variacion": {
-    "valor": 0,
-    "unidad": "millones de USD",
-    "contra": "mes anterior"
-   },
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-10-31",
    "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-rubro",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "rubro",
+    "clave": "Construcción"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -165,16 +183,20 @@
   },
   {
    "id": "inversion-anunciada-mes-comercio-y-servicios",
-   "nombre": "Inversión anunciada o aprobada en el mes · Comercio y servicios",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Comercio y servicios",
    "valor": 0,
    "unidad": "millones de USD",
-   "variacion": {
-    "valor": 0,
-    "unidad": "millones de USD",
-    "contra": "mes anterior"
-   },
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-10-31",
    "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-rubro",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "rubro",
+    "clave": "Comercio y servicios"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -191,10 +213,709 @@
    "url": "https://empresaseinversiones.netlify.app/#inversiones"
   },
   {
+   "id": "inversion-anunciada-mes-provincia-buenos-aires",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Buenos Aires",
+   "valor": 30,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "Buenos Aires"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Buenos Aires",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-caba",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · CABA",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "CABA"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "CABA",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-catamarca",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Catamarca",
+   "valor": 8290,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "Catamarca"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Catamarca",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-chaco",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Chaco",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "Chaco"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Chaco",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-chubut",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Chubut",
+   "valor": 1200,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "Chubut"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Chubut",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-cordoba",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Córdoba",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "Córdoba"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Córdoba",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-corrientes",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Corrientes",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "Corrientes"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Corrientes",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-entre-rios",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Entre Ríos",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "Entre Ríos"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Entre Ríos",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-formosa",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Formosa",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "Formosa"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Formosa",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-jujuy",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Jujuy",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "Jujuy"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Jujuy",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-la-pampa",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · La Pampa",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "La Pampa"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "La Pampa",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-la-rioja",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · La Rioja",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "La Rioja"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "La Rioja",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-mendoza",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Mendoza",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "Mendoza"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Mendoza",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-misiones",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Misiones",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "Misiones"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Misiones",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-neuquen",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Neuquén",
+   "valor": 27401,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "Neuquén"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Neuquén",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-rio-negro",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Río Negro",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "Río Negro"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Río Negro",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-salta",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Salta",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "Salta"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Salta",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-san-juan",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · San Juan",
+   "valor": 19.5,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "San Juan"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "San Juan",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-san-luis",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · San Luis",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "San Luis"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "San Luis",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-santa-cruz",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Santa Cruz",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "Santa Cruz"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Santa Cruz",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-santa-fe",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Santa Fe",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "Santa Fe"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Santa Fe",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-santiago-del-estero",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Santiago del Estero",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "Santiago del Estero"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Santiago del Estero",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-tierra-del-fuego",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Tierra del Fuego",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "Tierra del Fuego"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Tierra del Fuego",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
+   "id": "inversion-anunciada-mes-provincia-tucuman",
+   "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes · Tucumán",
+   "valor": 0,
+   "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
+   "fecha_dato": "2026-10-31",
+   "periodo": "2026-10",
+   "grupo": {
+    "id": "inversion-anunciada-mes-por-provincia",
+    "nombre": "Inversión anunciada, presentada al RIGI o aprobada en el mes",
+    "dimension": "provincia",
+    "clave": "Tucumán"
+   },
+   "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
+   "eje": "Economía nacional",
+   "alcance": {
+    "nivel": "provincia",
+    "provincia": "Tucumán",
+    "localidad": "",
+    "pais": "Argentina"
+   },
+   "rubros": [],
+   "subrubros": [],
+   "exposicion": [],
+   "url": "https://empresaseinversiones.netlify.app/#inversiones"
+  },
+  {
    "id": "rigi-aprobados-cantidad",
    "nombre": "Proyectos aprobados en el RIGI",
    "valor": 30,
    "unidad": "proyectos",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
@@ -214,6 +935,9 @@
    "nombre": "Inversión comprometida en proyectos aprobados en el RIGI",
    "valor": 79617,
    "unidad": "millones de USD",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
@@ -233,6 +957,9 @@
    "nombre": "Empresas en crisis relevadas",
    "valor": 167,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
@@ -252,7 +979,16 @@
    "nombre": "Empresas en crisis relevadas · Industria",
    "valor": 127,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-rubro",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "rubro",
+    "clave": "Industria"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -273,7 +1009,16 @@
    "nombre": "Empresas en crisis relevadas · Agro",
    "valor": 8,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-rubro",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "rubro",
+    "clave": "Agro"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -294,7 +1039,16 @@
    "nombre": "Empresas en crisis relevadas · Minería",
    "valor": 1,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-rubro",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "rubro",
+    "clave": "Minería"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -315,7 +1069,16 @@
    "nombre": "Empresas en crisis relevadas · Energía",
    "valor": 4,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-rubro",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "rubro",
+    "clave": "Energía"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -336,7 +1099,16 @@
    "nombre": "Empresas en crisis relevadas · Construcción",
    "valor": 4,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-rubro",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "rubro",
+    "clave": "Construcción"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -357,7 +1129,16 @@
    "nombre": "Empresas en crisis relevadas · Comercio y servicios",
    "valor": 23,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-rubro",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "rubro",
+    "clave": "Comercio y servicios"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -378,7 +1159,16 @@
    "nombre": "Empresas en crisis relevadas · Buenos Aires",
    "valor": 52,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "Buenos Aires"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -397,7 +1187,16 @@
    "nombre": "Empresas en crisis relevadas · CABA",
    "valor": 8,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "CABA"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -416,7 +1215,16 @@
    "nombre": "Empresas en crisis relevadas · Catamarca",
    "valor": 6,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "Catamarca"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -435,7 +1243,16 @@
    "nombre": "Empresas en crisis relevadas · Chaco",
    "valor": 5,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "Chaco"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -454,7 +1271,16 @@
    "nombre": "Empresas en crisis relevadas · Chubut",
    "valor": 3,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "Chubut"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -473,7 +1299,16 @@
    "nombre": "Empresas en crisis relevadas · Córdoba",
    "valor": 12,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "Córdoba"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -492,7 +1327,16 @@
    "nombre": "Empresas en crisis relevadas · Corrientes",
    "valor": 5,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "Corrientes"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -511,7 +1355,16 @@
    "nombre": "Empresas en crisis relevadas · Entre Ríos",
    "valor": 6,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "Entre Ríos"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -530,7 +1383,16 @@
    "nombre": "Empresas en crisis relevadas · Formosa",
    "valor": 1,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "Formosa"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -549,7 +1411,16 @@
    "nombre": "Empresas en crisis relevadas · Jujuy",
    "valor": 3,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "Jujuy"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -568,7 +1439,16 @@
    "nombre": "Empresas en crisis relevadas · La Pampa",
    "valor": 1,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "La Pampa"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -587,7 +1467,16 @@
    "nombre": "Empresas en crisis relevadas · La Rioja",
    "valor": 11,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "La Rioja"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -606,7 +1495,16 @@
    "nombre": "Empresas en crisis relevadas · Mendoza",
    "valor": 5,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "Mendoza"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -625,7 +1523,16 @@
    "nombre": "Empresas en crisis relevadas · Misiones",
    "valor": 3,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "Misiones"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -644,7 +1551,16 @@
    "nombre": "Empresas en crisis relevadas · Neuquén",
    "valor": 0,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "Neuquén"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -663,7 +1579,16 @@
    "nombre": "Empresas en crisis relevadas · Río Negro",
    "valor": 2,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "Río Negro"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -682,7 +1607,16 @@
    "nombre": "Empresas en crisis relevadas · Salta",
    "valor": 1,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "Salta"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -701,7 +1635,16 @@
    "nombre": "Empresas en crisis relevadas · San Juan",
    "valor": 2,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "San Juan"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -720,7 +1663,16 @@
    "nombre": "Empresas en crisis relevadas · San Luis",
    "valor": 3,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "San Luis"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -739,7 +1691,16 @@
    "nombre": "Empresas en crisis relevadas · Santa Cruz",
    "valor": 2,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "Santa Cruz"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -758,7 +1719,16 @@
    "nombre": "Empresas en crisis relevadas · Santa Fe",
    "valor": 24,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "Santa Fe"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -777,7 +1747,16 @@
    "nombre": "Empresas en crisis relevadas · Santiago del Estero",
    "valor": 2,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "Santiago del Estero"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -796,7 +1775,16 @@
    "nombre": "Empresas en crisis relevadas · Tierra del Fuego",
    "valor": 7,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "Tierra del Fuego"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
@@ -815,7 +1803,16 @@
    "nombre": "Empresas en crisis relevadas · Tucumán",
    "valor": 3,
    "unidad": "empresas",
+   "tipo_valor": "nivel",
+   "frecuencia": "mensual",
+   "comparar": [],
    "fecha_dato": "2026-11-25",
+   "grupo": {
+    "id": "empresas-crisis-por-provincia",
+    "nombre": "Empresas en crisis relevadas",
+    "dimension": "provincia",
+    "clave": "Tucumán"
+   },
    "fuente_original": "Relevamiento propio de Empresas e Inversiones (medios, Boletín Oficial, Monitor RIGI del IIEP-UBA)",
    "eje": "Economía nacional",
    "alcance": {
